@@ -18,4 +18,4 @@ It is a team work and I was in charge of **Embedded Design**, **Deep Learning De
 
 6. `camera with flask_test/` contains implementation of UDP protocol communication in local area network and connection with Flask server.
 
-7. `tkinter_test` contains UI interface based on Python's Tkinter which controls hardware devices and provides real-time monitoring image recognition.
+7. `tkinter_test/` contains UI interface based on Python's Tkinter which controls hardware devices and provides real-time monitoring image recognition.
