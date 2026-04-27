@@ -14,4 +14,4 @@ It is a team work and I was in charge of **Embedded Design**, **Deep Learning De
 
 **Yolov8n** is our detect model trained with our previously taken database, processed by `Dataset_Old/`, `Dataset_Old/` and `Dataset_New/`.
 
-More information about **dataset**, 
+More information about **dataset**, please go to [Dataset_Old](), [Dataset_New]() and [Dataset_Extend]().
