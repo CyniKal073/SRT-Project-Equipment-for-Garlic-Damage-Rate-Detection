@@ -12,7 +12,7 @@ It is a team work and I was in charge of **Embedded Design**, **Deep Learning De
 
 3. `STM32F407ZGT6/` includes main control code for MCU, `main-on-raspberry.py` only works on **Raspberry Pi**.
 
-4.**Yolov8n** is our detect model trained with our previously taken database, processed by `Dataset_Old/`, `Dataset_Old/` and `Dataset_New/`.
+4. **Yolov8n** is our detect model trained with our previously taken database, processed by `Dataset_Old/`, `Dataset_Old/` and `Dataset_New/`.
 
 5. More information about **dataset processing**, please go to [Dataset_Old](https://github.com/CyniKal073/Dataset-Old-For-Yolov8), [Dataset_New](https://github.com/CyniKal073/Dataset-New-For-Yolov11) and [Dataset_Extend](https://github.com/CyniKal073/Dataset-Extend).
 
