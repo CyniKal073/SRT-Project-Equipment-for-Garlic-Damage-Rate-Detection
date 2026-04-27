@@ -15,3 +15,7 @@ It is a team work and I was in charge of **Embedded Design**, **Deep Learning De
 **Yolov8n** is our detect model trained with our previously taken database, processed by `Dataset_Old/`, `Dataset_Old/` and `Dataset_New/`.
 
 More information about **dataset processing**, please go to [Dataset_Old](https://github.com/CyniKal073/Dataset-Old-For-Yolov8), [Dataset_New](https://github.com/CyniKal073/Dataset-New-For-Yolov11) and [Dataset_Extend](https://github.com/CyniKal073/Dataset-Extend).
+
+`camera with flask_test/` contains implementation of UDP protocol communication in local area network and connection with Flask server.
+
+`tkinter_test` contains UI interface based on Python's Tkinter which controls hardware devices and provides real-time monitoring og image recognition.
