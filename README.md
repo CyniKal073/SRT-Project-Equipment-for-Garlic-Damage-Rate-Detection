@@ -11,3 +11,5 @@ It is a team work and I was in charge of **Embedded Design**, **Deep Learning De
 **STM32F407ZGT6** is our main MCU for motor, sensor and servo control and buliding connection with **Raspberry Pi**.
 
 `STM32F407ZGT6/` includes main control code for MCU, `main-on-raspberry.py` only works on **Raspberry Pi**.
+
+**Yolov8n** is our detect model trained with our previously taken database, processed by `Dataset_Old/`, `Dataset_Old/` and `Dataset_New/`.
